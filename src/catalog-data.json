@@ -1,0 +1,555 @@
+[
+  {
+    "id": "Dumbbell_Bench_Press",
+    "name": "平板哑铃卧推",
+    "aliases": [
+      "平板哑铃推胸"
+    ],
+    "englishName": "Dumbbell Bench Press",
+    "equipment": "哑铃",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ],
+    "steps": [
+      "双脚稳定支撑，背部贴靠卧推凳。",
+      "平稳推起哑铃，再有控制地回落。"
+    ],
+    "images": [
+      "/exercise-media/Dumbbell_Bench_Press/0.jpg",
+      "/exercise-media/Dumbbell_Bench_Press/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Dumbbell_Bench_Press.json"
+  },
+  {
+    "id": "Barbell_Bench_Press_-_Medium_Grip",
+    "name": "平板杠铃卧推",
+    "aliases": [
+      "杠铃卧推"
+    ],
+    "englishName": "Barbell Bench Press - Medium Grip",
+    "equipment": "杠铃",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ],
+    "steps": [
+      "握稳杠铃，双脚支撑地面。",
+      "有控制地下放与推起，保持左右平衡。"
+    ],
+    "images": [
+      "/exercise-media/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+      "/exercise-media/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Barbell_Bench_Press_-_Medium_Grip.json"
+  },
+  {
+    "id": "Incline_Dumbbell_Press",
+    "name": "上斜哑铃卧推",
+    "aliases": [
+      "上斜哑铃推胸"
+    ],
+    "englishName": "Incline Dumbbell Press",
+    "equipment": "哑铃",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ],
+    "steps": [
+      "坐稳上斜凳，保持背部支撑。",
+      "沿稳定轨迹推起哑铃，缓慢回落。"
+    ],
+    "images": [
+      "/exercise-media/Incline_Dumbbell_Press/0.jpg",
+      "/exercise-media/Incline_Dumbbell_Press/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Incline_Dumbbell_Press.json"
+  },
+  {
+    "id": "Machine_Bench_Press",
+    "name": "器械推胸",
+    "aliases": [
+      "平板器械卧推"
+    ],
+    "englishName": "Machine Bench Press",
+    "equipment": "固定器械",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ],
+    "steps": [
+      "调好座椅，使手柄位于合适的胸部高度。",
+      "背部贴靠靠垫，向前推起后缓慢还原。"
+    ],
+    "images": [
+      "/exercise-media/Machine_Bench_Press/0.jpg",
+      "/exercise-media/Machine_Bench_Press/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Machine_Bench_Press.json"
+  },
+  {
+    "id": "Butterfly",
+    "name": "蝴蝶机夹胸",
+    "aliases": [
+      "器械夹胸"
+    ],
+    "englishName": "Butterfly",
+    "equipment": "固定器械",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [],
+    "steps": [
+      "调整座椅并握好手柄，背部贴靠靠垫。",
+      "缓慢向中间合拢，再有控制地展开。"
+    ],
+    "images": [
+      "/exercise-media/Butterfly/0.jpg",
+      "/exercise-media/Butterfly/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Butterfly.json"
+  },
+  {
+    "id": "Pushups",
+    "name": "俯卧撑",
+    "aliases": [],
+    "englishName": "Pushups",
+    "equipment": "自重",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ],
+    "steps": [
+      "双手支撑地面，躯干保持稳定。",
+      "弯曲手肘下放身体，再推回起始位置。"
+    ],
+    "images": [
+      "/exercise-media/Pushups/0.jpg",
+      "/exercise-media/Pushups/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Pushups.json"
+  },
+  {
+    "id": "One-Arm_Dumbbell_Row",
+    "name": "单臂哑铃划船",
+    "aliases": [],
+    "englishName": "One-Arm Dumbbell Row",
+    "equipment": "哑铃",
+    "primary": [
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack",
+      "deltoids"
+    ],
+    "steps": [
+      "一侧手与膝支撑凳面，另一手握哑铃。",
+      "向髋部方向拉起，再缓慢放下，避免扭转躯干。"
+    ],
+    "images": [
+      "/exercise-media/One-Arm_Dumbbell_Row/0.jpg",
+      "/exercise-media/One-Arm_Dumbbell_Row/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/One-Arm_Dumbbell_Row.json"
+  },
+  {
+    "id": "Seated_Cable_Rows",
+    "name": "坐姿绳索划船",
+    "aliases": [],
+    "englishName": "Seated Cable Rows",
+    "equipment": "绳索",
+    "primary": [
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack",
+      "deltoids"
+    ],
+    "steps": [
+      "坐稳并踩好踏板，保持躯干稳定。",
+      "拉手柄靠近躯干，缓慢伸臂还原。"
+    ],
+    "images": [
+      "/exercise-media/Seated_Cable_Rows/0.jpg",
+      "/exercise-media/Seated_Cable_Rows/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Seated_Cable_Rows.json"
+  },
+  {
+    "id": "Wide-Grip_Lat_Pulldown",
+    "name": "宽握高位下拉",
+    "aliases": [],
+    "englishName": "Wide-Grip Lat Pulldown",
+    "equipment": "绳索",
+    "primary": [
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack",
+      "deltoids"
+    ],
+    "steps": [
+      "调好腿垫，双手握稳横杆。",
+      "将横杆拉向上胸方向，缓慢回放。"
+    ],
+    "images": [
+      "/exercise-media/Wide-Grip_Lat_Pulldown/0.jpg",
+      "/exercise-media/Wide-Grip_Lat_Pulldown/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Wide-Grip_Lat_Pulldown.json"
+  },
+  {
+    "id": "Dumbbell_Shoulder_Press",
+    "name": "哑铃推肩",
+    "aliases": [
+      "哑铃肩推"
+    ],
+    "englishName": "Dumbbell Shoulder Press",
+    "equipment": "哑铃",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "steps": [
+      "坐稳靠背凳，哑铃位于肩部两侧。",
+      "向上推起，保持躯干稳定，再缓慢回落。"
+    ],
+    "images": [
+      "/exercise-media/Dumbbell_Shoulder_Press/0.jpg",
+      "/exercise-media/Dumbbell_Shoulder_Press/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Dumbbell_Shoulder_Press.json"
+  },
+  {
+    "id": "Side_Lateral_Raise",
+    "name": "哑铃侧平举",
+    "aliases": [
+      "侧平举"
+    ],
+    "englishName": "Side Lateral Raise",
+    "equipment": "哑铃",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [],
+    "steps": [
+      "双手持哑铃自然下垂，手肘略弯。",
+      "向两侧抬起手臂，再缓慢落下，避免甩动。"
+    ],
+    "images": [
+      "/exercise-media/Side_Lateral_Raise/0.jpg",
+      "/exercise-media/Side_Lateral_Raise/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Side_Lateral_Raise.json"
+  },
+  {
+    "id": "Dumbbell_Bicep_Curl",
+    "name": "哑铃弯举",
+    "aliases": [],
+    "englishName": "Dumbbell Bicep Curl",
+    "equipment": "哑铃",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearm"
+    ],
+    "steps": [
+      "双手持哑铃，上臂靠近身体。",
+      "弯曲手肘抬起哑铃，再缓慢还原。"
+    ],
+    "images": [
+      "/exercise-media/Dumbbell_Bicep_Curl/0.jpg",
+      "/exercise-media/Dumbbell_Bicep_Curl/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Dumbbell_Bicep_Curl.json"
+  },
+  {
+    "id": "EZ-Bar_Curl",
+    "name": "曲杆弯举",
+    "aliases": [
+      "弯杆弯举"
+    ],
+    "englishName": "EZ-Bar Curl",
+    "equipment": "曲杆",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [],
+    "steps": [
+      "握稳曲杆，上臂靠近身体。",
+      "弯曲手肘抬起，保持躯干稳定，再缓慢回落。"
+    ],
+    "images": [
+      "/exercise-media/EZ-Bar_Curl/0.jpg",
+      "/exercise-media/EZ-Bar_Curl/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/EZ-Bar_Curl.json"
+  },
+  {
+    "id": "Triceps_Pushdown_-_Rope_Attachment",
+    "name": "绳索下压",
+    "aliases": [
+      "绳索三头下压"
+    ],
+    "englishName": "Triceps Pushdown - Rope Attachment",
+    "equipment": "绳索",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "steps": [
+      "握住绳索，上臂靠近身体。",
+      "伸直手肘下压，再有控制地回到起始位置。"
+    ],
+    "images": [
+      "/exercise-media/Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+      "/exercise-media/Triceps_Pushdown_-_Rope_Attachment/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Triceps_Pushdown_-_Rope_Attachment.json"
+  },
+  {
+    "id": "Triceps_Pushdown",
+    "name": "直杆下压",
+    "aliases": [],
+    "englishName": "Triceps Pushdown",
+    "equipment": "绳索",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "steps": [
+      "双手握住下压杆，上臂保持稳定。",
+      "向下伸展手肘，再缓慢还原。"
+    ],
+    "images": [
+      "/exercise-media/Triceps_Pushdown/0.jpg",
+      "/exercise-media/Triceps_Pushdown/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Triceps_Pushdown.json"
+  },
+  {
+    "id": "Barbell_Squat",
+    "name": "杠铃深蹲",
+    "aliases": [],
+    "englishName": "Barbell Squat",
+    "equipment": "杠铃",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "calves",
+      "gluteal",
+      "hamstring",
+      "lowerBack"
+    ],
+    "steps": [
+      "稳定站立并握稳杠铃，保持躯干张力。",
+      "屈髋屈膝下蹲，再平稳站起。"
+    ],
+    "images": [
+      "/exercise-media/Barbell_Squat/0.jpg",
+      "/exercise-media/Barbell_Squat/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Barbell_Squat.json"
+  },
+  {
+    "id": "Dumbbell_Squat",
+    "name": "哑铃深蹲",
+    "aliases": [],
+    "englishName": "Dumbbell Squat",
+    "equipment": "哑铃",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "calves",
+      "gluteal",
+      "hamstring",
+      "lowerBack"
+    ],
+    "steps": [
+      "双手持哑铃站稳，保持躯干稳定。",
+      "屈髋屈膝下蹲，再平稳站起。"
+    ],
+    "images": [
+      "/exercise-media/Dumbbell_Squat/0.jpg",
+      "/exercise-media/Dumbbell_Squat/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Dumbbell_Squat.json"
+  },
+  {
+    "id": "Romanian_Deadlift",
+    "name": "罗马尼亚硬拉",
+    "aliases": [],
+    "englishName": "Romanian Deadlift",
+    "equipment": "杠铃",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [
+      "calves",
+      "gluteal",
+      "lowerBack"
+    ],
+    "steps": [
+      "双手握杠，膝盖微屈，保持背部稳定。",
+      "臀部向后移动下放杠铃，再伸髋站起。"
+    ],
+    "images": [
+      "/exercise-media/Romanian_Deadlift/0.jpg",
+      "/exercise-media/Romanian_Deadlift/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Romanian_Deadlift.json"
+  },
+  {
+    "id": "Leg_Press",
+    "name": "腿举",
+    "aliases": [
+      "器械腿举"
+    ],
+    "englishName": "Leg Press",
+    "equipment": "固定器械",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "calves",
+      "gluteal",
+      "hamstring"
+    ],
+    "steps": [
+      "坐稳腿举机，双脚放在踏板上。",
+      "在可控制的范围内屈膝回收，再平稳推起。"
+    ],
+    "images": [
+      "/exercise-media/Leg_Press/0.jpg",
+      "/exercise-media/Leg_Press/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Leg_Press.json"
+  },
+  {
+    "id": "Leg_Extensions",
+    "name": "坐姿腿屈伸",
+    "aliases": [
+      "腿屈伸"
+    ],
+    "englishName": "Leg Extensions",
+    "equipment": "固定器械",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [],
+    "steps": [
+      "调整靠垫与滚垫，坐稳并握住扶手。",
+      "伸展膝关节抬起滚垫，再缓慢下放。"
+    ],
+    "images": [
+      "/exercise-media/Leg_Extensions/0.jpg",
+      "/exercise-media/Leg_Extensions/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Leg_Extensions.json"
+  },
+  {
+    "id": "Lying_Leg_Curls",
+    "name": "俯卧腿弯举",
+    "aliases": [],
+    "englishName": "Lying Leg Curls",
+    "equipment": "固定器械",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [],
+    "steps": [
+      "调好滚垫，俯卧并保持髋部稳定。",
+      "屈膝将滚垫拉向臀部，再缓慢还原。"
+    ],
+    "images": [
+      "/exercise-media/Lying_Leg_Curls/0.jpg",
+      "/exercise-media/Lying_Leg_Curls/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Lying_Leg_Curls.json"
+  },
+  {
+    "id": "Standing_Calf_Raises",
+    "name": "站姿提踵",
+    "aliases": [
+      "提踵"
+    ],
+    "englishName": "Standing Calf Raises",
+    "equipment": "固定器械",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "steps": [
+      "站稳并保持支撑，前脚掌承重。",
+      "抬起脚跟，再有控制地下放。"
+    ],
+    "images": [
+      "/exercise-media/Standing_Calf_Raises/0.jpg",
+      "/exercise-media/Standing_Calf_Raises/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Standing_Calf_Raises.json"
+  },
+  {
+    "id": "Crunches",
+    "name": "卷腹",
+    "aliases": [],
+    "englishName": "Crunches",
+    "equipment": "自重",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "steps": [
+      "仰卧屈膝，双脚放稳，头颈自然。",
+      "收紧腹部抬起上背，再缓慢还原。"
+    ],
+    "images": [
+      "/exercise-media/Crunches/0.jpg",
+      "/exercise-media/Crunches/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Crunches.json"
+  },
+  {
+    "id": "Plank",
+    "name": "平板支撑",
+    "aliases": [],
+    "englishName": "Plank",
+    "equipment": "自重",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "steps": [
+      "前臂和脚尖支撑身体。",
+      "保持躯干稳定并自然呼吸。"
+    ],
+    "images": [
+      "/exercise-media/Plank/0.jpg",
+      "/exercise-media/Plank/1.jpg"
+    ],
+    "source": "https://github.com/yuhonas/free-exercise-db/blob/f00c92c7dcf1216a928a52c3706c7ce8e2f71ed5/exercises/Plank.json"
+  }
+]

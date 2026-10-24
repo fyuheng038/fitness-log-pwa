@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.wrangler/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+backups/
+change-backups/
+src/historySeed.ts

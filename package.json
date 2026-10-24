@@ -1,0 +1,33 @@
+{
+  "name": "fitness-log-pwa",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test tests/*.test.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "idb": "latest",
+    "vite-plugin-pwa": "latest",
+    "workbox-window": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  },
+  "license": "MIT",
+  "description": "A local-first Chinese fitness log PWA with interactive muscle maps and exercise demonstrations",
+  "engines": {
+    "node": ">=24"
+  }
+}

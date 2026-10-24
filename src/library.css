@@ -1,0 +1,81 @@
+button, a, select { -webkit-tap-highlight-color: transparent; }
+button { cursor: pointer; }
+button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible, textarea:focus-visible { outline: 2px solid #b8f34a; outline-offset: 3px; }
+select { width:100%; min-height:48px; padding:10px 30px 10px 12px; border:1px solid #343c35; border-radius:10px; background:#1d211e; color:#f5f7f5; font:inherit; font-size:16px; }
+.segmented { display:flex; padding:4px; gap:4px; border:1px solid #2a302c; border-radius:14px; background:#131713; }
+.segmented button { flex:1; border:0; background:transparent; color:#9da79e; border-radius:10px; min-height:40px; font-size:14px; font-weight:700; }
+.segmented button[aria-pressed=true] { background:#2b371d; color:#c3f56c; }
+.library-tabs { margin-bottom:18px; }
+.explorer-hero { display:grid; grid-template-columns:1fr 1.05fr; gap:5px; padding:20px 16px 12px; margin-bottom:20px; overflow:hidden; background:radial-gradient(ellipse at 95% 45%,#25351d 0, #151b12 65%); }
+.explorer-copy { padding-top:32px; }
+.explorer-copy .eyebrow { font-size:10px; letter-spacing:2px; }
+.explorer-copy h2 { font-size:30px; line-height:1.4; letter-spacing:-1px; margin:14px 0; }
+.explorer-copy h2 span { color:#b8f34a; }
+.explorer-copy p { font-size:12px; line-height:1.9; color:#9da79e; }
+.body-map { min-width:0; text-align:center; }
+.body-map svg { display:block; height:268px; max-width:100%; margin:10px auto 0; overflow:visible; }
+.body-side { width:136px; max-width:100%; margin:0 auto; border-radius:10px; }
+.body-side button { font-size:12px; min-height:32px; border-radius:7px; }
+.muscle-shape { fill:#59634f; stroke:#182013; stroke-width:3; transition:fill .15s; }
+.muscle-shape.silhouette { fill:#313a2e; stroke-width:1; }
+.muscle-shape[role=button] { cursor:pointer; }
+.muscle-shape[role=button]:hover, .muscle-shape[role=button]:focus { fill:#d8ff90; outline:none; stroke:#f3ffd6; stroke-width:5; }
+.muscle-shape.is-primary { fill:#b8f34a; }
+.muscle-shape.is-secondary { fill:#648b34; }
+.map-caption { min-height:28px; margin-top:8px; font-size:10px; line-height:1.6; color:#a8b69d; }
+.legend-dot { display:inline-block; width:7px; height:7px; border-radius:50%; margin:0 4px; }
+.primary-dot { background:#b8f34a; }.secondary-dot { background:#648b34; }
+.catalog-filters { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.catalog-explorer .section-line h2 small { font-size:13px; color:#99a092; font-weight:400; margin-left:6px; }
+.catalog-list { display:grid; gap:10px; }
+.catalog-item { width:100%; display:flex; align-items:center; gap:14px; padding:10px; border-radius:16px; min-height:94px; }
+.catalog-item img { width:76px; height:76px; object-fit:contain; background:#fff; border-radius:10px; flex-shrink:0; }
+.catalog-item>span { display:grid; gap:8px; min-width:0; flex:1; }
+.catalog-item b { font-size:16px; line-height:1.4; }
+.catalog-item small { font-size:12px; line-height:1.5; }
+.catalog-item>svg { color:#89957e; flex-shrink:0; }
+.fine-print { color:#929e8b; font-size:12px; line-height:1.7; margin:12px 0; }
+.fine-print a { color:#bdcead; text-underline-offset:3px; }
+.attribution { text-align:center; margin:25px 0 0; }
+.back-catalog { padding-left:0; margin:6px 0 15px; }
+.detail-title h2 { font-size:28px; letter-spacing:-.5px; margin:10px 0 6px; }
+.detail-title p { font-size:13px; color:#929e8b; margin:0; }
+.demo-frame { background:#fff; border-radius:18px; overflow:hidden; }
+.demo-frame img { width:100%; height:260px; object-fit:contain; }
+.demo-controls { display:flex; gap:8px; margin-top:10px; }
+.demo-controls button { flex:1; min-height:44px; border:1px solid #343d30; border-radius:10px; background:#1b2117; color:#b2bea9; font-size:13px; }
+.demo-controls button[aria-pressed=true] { background:#31411e; color:#c3f56c; border-color:#688332; }
+.demo-media { display:block; max-width:100%; width:100%; max-height:340px; border-radius:12px; object-fit:contain; background:#050605; }
+.empty-demo { display:grid; place-items:center; padding:28px; background:#10150e; border:1px dashed #3a482e; border-radius:12px; color:#a6ba91; }
+.empty-demo p { margin-bottom:8px; }.empty-demo small { font-size:12px; }
+.muscle-detail { display:grid; grid-template-columns:1fr 1fr; align-items:center; gap:16px; }
+.muscle-detail .body-map svg { height:230px; }
+.muscle-detail h3 { color:#9eac90; font-size:12px; font-weight:500; }
+.muscle-detail p { font-size:15px; line-height:1.8; }
+.instruction-card,.template-add,.personal-fields { margin-top:16px; }
+.instruction-card h2,.template-add h2,.personal-fields h2 { margin:0 0 16px; font-size:18px; }
+.instruction-card ol { padding-left:22px; color:#bdc7b6; font-size:14px; line-height:1.9; margin:0; }
+.instruction-card li+li { margin-top:8px; }
+.personal-fields>label { margin-top:14px; }
+.inline-actions { display:flex; gap:8px; align-items:center; }
+.inline-actions .secondary { flex:1; }
+.success-message { font-size:13px; color:#b8f34a; line-height:1.6; }
+.success-message:empty { display:none; }
+.empty-state { text-align:center; padding:25px 14px; color:#9da994; line-height:1.6; }
+.empty-state h3 { color:#dce8d1; }
+.personal-item { width:100%; }
+.personal-item h3 { margin:0; font-size:18px; }
+.personal-item p { color:#afbba5; font-size:14px; line-height:1.6; white-space:pre-wrap; }
+.personal-item small { font-size:12px; }
+.exercise-modal { position:fixed; padding:0 16px 30px; border:1px solid #35432a; border-radius:22px; width:min(560px,calc(100vw - 16px)); max-height:calc(100dvh - 24px); background:#090d08; color:#f5f7f5; overscroll-behavior:contain; }
+.exercise-modal::backdrop { background:#000b; backdrop-filter:blur(5px); }
+.modal-toolbar { position:sticky; top:0; z-index:2; display:flex; justify-content:space-between; align-items:center; background:#090d08f5; padding:8px 0; border-bottom:1px solid #2a302c; margin-bottom:16px; }
+.modal-toolbar .text-button { color:#b8f34a; min-height:44px; }
+.catalog-link { color:#b8f34a; font-size:13px; }
+.section-line { flex-wrap:wrap; gap:6px; }
+.visually-hidden { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+.muscle-history { margin-top:18px; text-align:center; }
+.muscle-history h2 { text-align:left; margin-top:0; }
+.muscle-history .body-map svg { height:270px; }
+@media(max-width:360px) { .explorer-copy h2{font-size:25px}.explorer-hero{padding:14px 10px}.catalog-item{gap:10px}.body-map svg{height:240px}.muscle-detail{gap:10px}.demo-frame img{height:220px} }
+@media(prefers-reduced-motion:reduce) { .muscle-shape{transition:none} }
